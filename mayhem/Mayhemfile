@@ -4,5 +4,5 @@ testsuite:
     - file://mayhem/testsuite
 
 cmds:
-  - cmd: /src/mayhem/fuzz_toml
+  - cmd: /fuzz_toml
     libfuzzer: true
